@@ -24,7 +24,7 @@ class Note extends React.Component {
       if (!this.props.newTag) {
         return (
           <span>
-            Tag your note:
+            Tag your note:  
             <i
               className="tag-button material-icons"
               onClick={() => this.props.showTagForm()}

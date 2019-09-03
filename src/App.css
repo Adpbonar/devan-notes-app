@@ -346,6 +346,7 @@ body {
   width: 90vw;
   height: auto;
   padding: 10px;
+  min-height: 50px;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
   background-color: #F5F5F6;
