@@ -1,3 +1,17 @@
+# NoteApp
+
+This note app was built in React. It uses an API to manage and render notes and tags.
+
+<img src="http://www.devanpotterbonar.com/assets/note-app-0e1ef2a88c996d1676ab734d305c24ea125eca88f899570ad1b36c61db98635b.png" />
+<br />
+<br />
+<img src="https://docs.google.com/uc?id=17K6RCgQSB962CkUugFlinpPHf4YK84UO" />
+<br />
+<br />
+<img src="https://docs.google.com/uc?id=1ovpQ8eoEJc9pmiGqYKs_ERJAfakWEO0T" />
+<br />
+Kick the tires: https://notes-app-devanpotterbonar.herokuapp.com.
+<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
