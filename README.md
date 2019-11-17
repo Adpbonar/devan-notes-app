@@ -11,7 +11,7 @@ This note app was built in React. It uses an API to manage and render notes and 
 <img src="https://docs.google.com/uc?id=1ovpQ8eoEJc9pmiGqYKs_ERJAfakWEO0T" />
 <br />
 Kick the tires: https://notes-app-devanpotterbonar.herokuapp.com.
-<br />
+<br /><br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
